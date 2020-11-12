@@ -1,0 +1,23 @@
+{
+  "name": "stock-screener",
+  "version": "1.0.0",
+  "description": "A utility to crunch number based on stock price.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridharrajs/stock-screener.git"
+  },
+  "keywords": [
+    "stock-screener"
+  ],
+  "author": "sridharrajs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sridharrajs/stock-screener/issues"
+  },
+  "homepage": "https://github.com/sridharrajs/stock-screener#readme"
+}

@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "symbol": "B",
+      "avg_price": 80,
+      "price": 125,
+      "low": 100,
+      "high": 150,
+      "ignore": false
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "A",
+      "avg_price": 0,
+      "price": 10,
+      "low": 8,
+      "high": 12,
+      "ignore": false
+    }
+  ]
+}
